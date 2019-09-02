@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+require('../src/index');
+
+
+//由于老师用的linux系统给此文件加的权限，暂时搁置
